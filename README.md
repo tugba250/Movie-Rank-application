@@ -1,5 +1,5 @@
 Movie Tracking & Management System
-A desktop application developed with C# and Windows Forms that allows users to browse, add, and manage a movie collection with a user-friendly interface.
+A desktop application developed with C# and Windows&Bunifu Forms that allows users to browse, add, and manage a movie collection with a user-friendly interface.
 
  Features
 User Authentication: Secure login system for authorized access.
@@ -8,7 +8,7 @@ Movie Library: Visual movie cards displaying titles and details.
 
 Management Dashboard: Easy-to-use forms for adding and categorizing movies.
 
-Modern UI: Clean design using custom controls and Windows Forms resources.
+Modern UI: Clean design using custom controls and Windows and Bunifu Forms resources.
 
  Tech Stack
 Language: C#
@@ -16,3 +16,9 @@ Language: C#
 Framework: .NET / Windows Forms
 
 IDE: Visual Studio 2026
+ How to Run
+1)Clone the repository to your local machine.
+
+2)Open the MovieProjectNew.slnx file in Visual Studio 2026.
+
+3)Build and run the project
