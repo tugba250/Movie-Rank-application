@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="MovieProjectNew/FilmIzlemeUygulamasi.csproj" Id="f1f05d45-2f88-4f0a-9b34-d2054df5d2e4">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
